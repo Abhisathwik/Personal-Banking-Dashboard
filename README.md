@@ -12,7 +12,7 @@ A full-stack banking application built with Java 17 and Spring Boot 3.x
 ## Tech Stack
 - **Backend:** Java 17, Spring Boot 3.x, Spring Security, JPA/Hibernate
 - **Database:** MySQL (Production), H2 (Development)
-- **Frontend:** Angular (Coming Soon)
+- **Frontend:** Angular
 - **Build:** Maven
 
 ## Getting Started
